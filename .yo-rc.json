@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Emmanuel Nelson",
+      "authorEmail": "elnels@gmail.com",
+      "authorUrl": "emmanuelnelson.com"
+    }
+  }
+}
